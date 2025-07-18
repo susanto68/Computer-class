@@ -1,6 +1,6 @@
 # Computer-class
 Computer Class Preparation 
-# 🎸 Guitar + Computer Class 📚💻
+# 💻 Computer Class 📚💻
 
 Welcome to our **Guitar and Computer Class** project folder!  
 Here, you will find fun lessons, simple coding projects, and activities that combine **music** and **computers**!
